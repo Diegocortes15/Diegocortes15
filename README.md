@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css">
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass">
-  <img align="right" style="border-radius: 60px" width="170" height="170º" src="https://user-images.githubusercontent.com/60171460/174932755-c40a36df-16c5-4280-b4af-8fdc29ef78ca.png">
+  <img align="right" width="170" height="170º" src="https://user-images.githubusercontent.com/60171460/174932755-c40a36df-16c5-4280-b4af-8fdc29ef78ca.png">
 </div>
   
   ## 
