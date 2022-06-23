@@ -14,26 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/Diegocortes15" target="_blank">
+  
+  <div align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocortes15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocortes15&layout=compact&langs_count=7&theme=radical"/>
+  </div>
 
-<div align="center">
-  <a href="https://github.com/Diegocortes15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocortes15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocortes15&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <div style="display: inline_block"><br>
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
+    <img align="center" width="40" height="40" src="https://asset.brandfetch.io/idV7ZoyErg/idTRnjKtRG.png" alt="webdriverio">
+    <img align="center" width="40" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-report">
+    <img align="center" width="40" height="40" src="https://bestofjs.org/logos/axios.dark.svg" alt="axiosjs">
+    <img align="center" width="40" height="40" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest-assured"/>
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html">
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css">
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/60171460/174932755-c40a36df-16c5-4280-b4af-8fdc29ef78ca.png?width=676&height=676">
+  </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
-  <img align="center" width="40" height="40" src="https://asset.brandfetch.io/idV7ZoyErg/idTRnjKtRG.png" alt="webdriverio">
-  <img align="center" width="40" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-report">
-  <img align="center" width="40" height="40" src="https://bestofjs.org/logos/axios.dark.svg" alt="axiosjs">
-  <img align="center" width="40" height="40" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest-assured"/>
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html">
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css">
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/60171460/174932755-c40a36df-16c5-4280-b4af-8fdc29ef78ca.png?width=676&height=676">
-</div>
-</div>
-  
+</a>  
   ## 
 
 <div>
