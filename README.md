@@ -1,4 +1,8 @@
-## Hi there 👋
+diegoalejandrocortesroa@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
+
+# DIEGO ALEJANDRO CORTÉS ROA
+## TEST AUTOMATION ENGINEER
+Passionate about test automation. Design and develop test automation scripts according to guidelines. I like to help teams make it easier to run tests through automation tools. Provide ideas that help make the automation framework maintainable in the long term.
 
 <!--
 **Diegocortes15/Diegocortes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
