@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html">
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css">
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/60171460/196604572-a35e8977-790a-4d93-b241-151c26c53c36.jpg?width=676&height=676">
-    
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/60171460/215353307-e366f881-bb80-45d3-92db-0bb1435dd036.jpg?width=676&height=676">
+        
   </div>
 
 </a>  
