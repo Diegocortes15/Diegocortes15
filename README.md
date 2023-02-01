@@ -1,6 +1,8 @@
 diegoalejandrocortesroa@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
 
 # DIEGO ALEJANDRO CORTÉS ROA
+CV: [CV_Diego_Cortes.pdf](https://github.com/Diegocortes15/Diegocortes15/files/10558902/CV.Diego.Cortes.2.pdf)
+
 ## TEST AUTOMATION ENGINEER
 Passionate about test automation. Design and develop test automation scripts according to guidelines. I like to help teams make it easier to run tests through automation tools. Provide ideas that help make the automation framework maintainable in the long term.
 
