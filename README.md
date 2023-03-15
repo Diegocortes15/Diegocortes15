@@ -1,4 +1,4 @@
-diegoalejandrocortesroa@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
+cortesroadiegoalejandro@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
 
 # DIEGO ALEJANDRO CORTÉS ROA
 CV: [CV_Diego_Cortes.pdf](https://github.com/Diegocortes15/Diegocortes15/files/10558902/CV.Diego.Cortes.2.pdf)
