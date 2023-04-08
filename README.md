@@ -1,10 +1,10 @@
 cortesroadiegoalejandro@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
 
 # DIEGO ALEJANDRO CORTÉS ROA
-CV: [CV_Diego_Cortes.pdf](https://github.com/Diegocortes15/Diegocortes15/files/10558902/CV.Diego.Cortes.2.pdf)
+CV: [CV Diego Cortes.pdf](https://github.com/Diegocortes15/Diegocortes15/files/11182422/CV.Diego.Cortes.pdf)
 
 ## TEST AUTOMATION ENGINEER
-Passionate about test automation. Design and develop test automation scripts according to guidelines. I like to help teams make it easier to run tests through automation tools. Provide ideas that help make the automation framework maintainable in the long term.
+I’m a passionate test automation professional with 6 months of experience in designing and developing manual tests and test automation scripts. I have worked with Playwright, Selenium, Git, GitHub, POM and SCRUM. I successfully automated a significant number of test cases, thereby increasing test coverage and improving testing efficiency. I enjoy leveraging my automation skills to help my team execute test cases more efficiently. I have completed courses to enhance skills.
 
 <!--
 **Diegocortes15/Diegocortes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
