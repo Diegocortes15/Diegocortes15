@@ -39,18 +39,18 @@ Here are some ideas to get you started:
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/7d951e37-24cf-43f5-9a3e-b65a3550d76a" alt="java">
     <img align="center" height="40" src="https://user-images.githubusercontent.com/60171460/197627839-5139d580-102f-42a1-848f-fcde014b5e93.svg" alt="selenium">
     <img align="center" height="40" src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest-assured"/>
-    <img align="center" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-report">
+  </div>
+  <div style="display: inline_block"><br>
     <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html">
     <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css">
     <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass">
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/c4f87cc5-bb31-4d5a-a052-20ccb96c1234" alt="git">
-    <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/75cd3024-906a-4b53-8ee1-14b29320339b" alt="github">
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/100db76c-af70-478b-a4ee-52091397da07" alt="azurepipeline">
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/38c59e53-8990-45fd-83da-567e5a2a163b" alt="jenkins">
+    <img align="center" height="40" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-report">
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/df5277e5-d655-46bf-a616-4d8054782ba7" alt="docker">
     <img align="center" width="40" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/9f65a3e9-532c-457f-837c-0aa3f1238267" alt="github">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/60171460/215353307-e366f881-bb80-45d3-92db-0bb1435dd036.jpg?width=676&height=676">
-
   </div>
 
 </a>  
