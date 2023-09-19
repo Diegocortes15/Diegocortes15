@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
   <h3 align="left">Languages and Tools</h3>
   <div style="display: inline_block"><br>
-    <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" style="max-width: 100%; margin-bottom:10px">
+    <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript">
     <img align="center" height="40" src="https://github.com/Diegocortes15/Diegocortes15/assets/60171460/99ba2376-4671-4c31-9cfb-4827511cfb88" alt="typescript">
     <img align="center" height="40" src="https://user-images.githubusercontent.com/60171460/197628797-2b34b8b4-de79-431c-b002-79d7fd247dde.svg" alt="playwright">
     <img align="center" height="40" src="https://asset.brandfetch.io/idV7ZoyErg/idTRnjKtRG.png" alt="webdriverio">
