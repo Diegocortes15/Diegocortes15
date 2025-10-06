@@ -1,12 +1,12 @@
 cortesroadiegoalejandro@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa/](https://www.linkedin.com/in/diegocortesroa/)
 
 # DIEGO ALEJANDRO CORTÉS ROA
-🔖 CV: [Diego_Cortes_Resume.pdf](https://github.com/Diegocortes15/Diegocortes15/files/12666719/Diego_Cortes_Resume.pdf)
+🔖 CV: [CV_Diego_Cortes.pdf](https://github.com/user-attachments/files/22730105/CV_Diego_Cortes.pdf)
 
 💼 Portfolio: [diegocortes15.github.io/portfolio/](https://diegocortes15.github.io/portfolio/)
 
 ## TEST AUTOMATION ENGINEER
-Passionate about test automation with experience in designing and developing manual tests and automation scripts. Successfully automated numerous test cases, improving test coverage and efficiency. Skilled at collaborating with teams to streamline test execution. Committed to continuous learning and enhancing automation skills. Dedicated to making a significant impact in organizations by delivering outstanding achievements and contributing to team success.
+QA Software Engineer with experience in test automation for business insurance and media services applications. Skilled in creating automated test cases, improving test coverage, and working closely with teams to make testing faster and more reliable. Always looking to learn new skills and find better ways to help improve product quality and team processes.
 
 <!--
 **Diegocortes15/Diegocortes15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
