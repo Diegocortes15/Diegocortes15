@@ -3,7 +3,7 @@ cortesroadiegoalejandro@gmail.com  ·  (57) 311 2482055  ·  [/in/diegocortesroa
 # DIEGO ALEJANDRO CORTÉS ROA
 🔖 CV: [CV_Diego_Cortes.pdf](https://github.com/user-attachments/files/22730105/CV_Diego_Cortes.pdf)
 
-💼 Portfolio: [diegocortes15.github.io/portfolio/](https://diegocortes15.github.io/portfolio/)
+💼 Portfolio: [https://portfolio-phi-ten-16.vercel.app/](https://portfolio-phi-ten-16.vercel.app/)
 
 ## TEST AUTOMATION ENGINEER
 QA Software Engineer with experience in test automation for business insurance and media services applications. Skilled in creating automated test cases, improving test coverage, and working closely with teams to make testing faster and more reliable. Always looking to learn new skills and find better ways to help improve product quality and team processes.
